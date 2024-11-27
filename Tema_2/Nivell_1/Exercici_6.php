@@ -15,5 +15,6 @@
     } else {
         echo "Esta vez te libraste de ser mordido.";
     }
-
+    
+    isBitten() ? "Te muerde" : "No te muerde";
 ?>
