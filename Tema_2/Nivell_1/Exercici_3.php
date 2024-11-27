@@ -26,7 +26,7 @@
 
 
 
-    function calculadora($num1, $num2, $operacion) {
+    function calcular($num1, $num2, $operacion) {
         switch ($operacion) {
             case '+':
                 echo $num1 + $num2;
