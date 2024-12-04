@@ -13,7 +13,8 @@ header {
 main {
 
 }
-.contenedor_horizontal{
+.contenedor_1{
+    background-color: #da0707; /
     display: flex;
     justify-content: center; 
     gap: 10px;
