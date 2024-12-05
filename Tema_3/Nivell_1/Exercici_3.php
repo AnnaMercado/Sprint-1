@@ -1,15 +1,13 @@
 <?php
     function mismo_Caracter($palabras, $caracter){
-        $coincidencia = true;
         $numero_Palabras = count($palabras);
 
         for ($i = 0; $i < $numerode_palabras; $i++){
             if (strpos($palabras[$i], $caracter) === false) {
-                $coincidencia = false; 
-                break;
+                return false;
             }
         }
-        return $coincidencia;
+        return true;
 
     }
     /*
