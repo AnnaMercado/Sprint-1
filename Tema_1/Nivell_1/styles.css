@@ -121,6 +121,50 @@ main {
 
 
 
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+    .contenedor_main1 {
+        flex-direction: column;
+        width: 86%;
+        
+    }
+    .orden_articulo{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .columna_articulo1, .columna_articulo2 {
+        width: 100%;
+    }
+
+    .contenedor_main2 {
+        flex-direction: column;
+        width: 86%;
+    }
+
+    .box_publicidad {
+        margin: 0 20px;
+    }
+
+    .box_pie{
+        width: 86%;
+
+    }
+}
+
+
+
+    
 @media (max-width: 480px){
     .contenedor_header1 {
         flex-direction: column;
@@ -154,8 +198,7 @@ main {
         flex-direction: column;
         width: 80%;
     }
-
-    .box_publicidad {
-        margin-bottom: 20px;
+    .box_pie{
+        width: 80%;
     }
 }
