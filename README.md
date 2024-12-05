@@ -7,8 +7,18 @@ Exercicis per integrar les bases de PHP, CSS i HTML.
 💻Tecnologies Utilitzades
 Php.
 
-Process Log:
-❗❗❗Actualitzacions d'aquesta versio: 
+❗❗❗Actualitzacions d'aquesta versio:
+            -Finalitzacion Nivell 1 - Tema 1: 
+                Entrega del exercicis 1, 2 i 3 (pagina versió escriptori, tablet i ordinador).
+            -Correcció exercici 3 - Tema 3: 
+                S'ha afegit un return false al bucle si no troba la lletra en la paraula i a més a més s'ha eliminat la variable $coincideixen, ja que al tener dos return no era necesari guardar el valor del Boolean.
+
+
+
+
+
+
+Proces log:
             -Correcció exercici 3 - Tema 3: 
                 S'ha afegit un break al bucle un cop veu que la paraula en la que està no conté la lletra que ha de buscar.
             -Correció exercici 1 - Tema 4: 
@@ -35,7 +45,7 @@ ________________________________________________________________________________
 
 **Tema 1 - HTML i CSS**
     -Nivell 1: 
-        -Exercici 1: 🟡(En proces)
+        -Exercici 1: 🆕
             A partir del wireframe que t'aportem en format .png, hauràs de fer la maquetació en format escriptori. És indiferent els colors escollits, però sí que és molt important que facis l'estructura de caixes que t'indiquem.
 ________________________________________________________________________________________________________________________________________
 
