@@ -1,26 +1,120 @@
+header, main, footer {
+    background-color: #000000;
+    color: #000000;
+    padding: 30px;
+}
+
+
 body {
     display: flex;
-    flex-wrap: wrap;
-    margin: 0;
+    flex-direction: column;
+    padding: 10px;
+    margin: 15 auto;
+    gap: 15px;
 }
-header {
-    background-color: #000000; /* Color de fondo del header */
-    padding: 20px;             /* Espaciado dentro del header */
-    color: white;             /* Color del texto */
-    text-align: center;       /* Alinear el texto al centro */
 
+header, main, footer{
+    padding: 10px;
 }
-main {
 
+.contenedor_header1, .contenedor_header2, .contenedor_main1, .contenedor_main2 {
+    padding: 20px;
+    margin: 20px;
 }
-.contenedor_1{
-    background-color: #da0707; /
+
+.contenedor_header1{
+    background-color: #352e9c;
+    display: flex;  
+    justify-content: space-around; 
+}
+.contenedor_header2{
+    background-color:#FFA43C; 
     display: flex;
-    justify-content: center; 
+    
+}
+
+.box_log, .box_nav, .box_social{
+    background-color: #F657E1;
+    margin: 10px 20px;
+    padding: 0 10px;
+    display: flex;
     gap: 10px;
 }
-footer {
-    padding: 0 10px;
-    background: #ccc;
+.box_log{
+    width: 5%;
+}
+.box_nav{
+    width: 80%
+}
+.box_social{
+    width: 10%;
+}
 
+.box_banner{
+    background-color: #F7F704;
+    padding: 0 10px;
+    margin: 10px 20px;
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+
+
+main {
+    display: flex;
+
+}
+.contenedor_main1{
+    background-color: #405c72;
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+}
+
+.contenedor_main2{
+    background-color: #e94184;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 25%;
+}
+
+.orden_articulo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.columna_articulo1, .columna_articulo2{
+    width: 100%;
+}
+
+.box_articulo{
+    background-color: #2536f0;
+    margin: 10px 20px;
+    padding: 0 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.box_navegacion{
+    background-color: #25dcf0;
+    margin: 10px 20px;
+    padding: 0 10px;
+    display: flex;
+}
+.box_publicidad{
+    background-color: #f0d825;
+    padding: 0 10px;
+    display: flex;
+    gap: 10px;
+
+}
+
+.box_pie{
+    background: #f1f582;
+    display: flex; 
+    padding: 20px;
+    margin: 20px;
+    gap: 10px;
 }
