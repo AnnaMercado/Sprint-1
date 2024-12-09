@@ -1,5 +1,5 @@
 <?php
-    function mismo_Caracter($palabras, $caracter){
+    function encontrar_Caracter($palabras, $caracter){
         $numero_Palabras = count($palabras);
 
         for ($i = 0; $i < $numerode_palabras; $i++){
