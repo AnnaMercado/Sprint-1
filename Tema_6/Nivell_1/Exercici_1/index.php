@@ -12,6 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 } else {
     echo "<p>No se ha enviado ningún dato.</p>";
 }
+echo "<p>Script ejecutado desde " . __FILE__ . " en la línea " . __LINE__ . ".</p>";
 
 
 ?>
