@@ -7,7 +7,17 @@ Exercicis per integrar les bases de PHP, CSS i HTML.
 💻Tecnologies Utilitzades
 Php.
 
+
+
 ❗❗❗Actualitzacions d'aquesta versio:
+            -Finalitzacion Nivell 1 - Tema 6: 
+                Entrega del exercicis 1, 2 i 3.
+            -Correcció exercici 3 - Tema 3: 
+                S'ha editat el nom de la funció de forma que s'anomeni a partir d'un verb i no un sustantiu. 
+
+
+
+Proces log:
             -Finalitzacion Nivell 1 - Tema 1: 
                 Entrega del exercicis 1, 2 i 3 (pagina versió escriptori, tablet i ordinador).
             -Correcció exercici 3 - Tema 3: 
@@ -15,10 +25,7 @@ Php.
 
 
 
-
-
-
-Proces log:
+___________________
             -Correcció exercici 3 - Tema 3: 
                 S'ha afegit un break al bucle un cop veu que la paraula en la que està no conté la lletra que ha de buscar.
             -Correció exercici 1 - Tema 4: 
@@ -45,7 +52,7 @@ ________________________________________________________________________________
 
 **Tema 1 - HTML i CSS**
     -Nivell 1: 
-        -Exercici 1: 🆕
+        -Exercici 1: ✅
             A partir del wireframe que t'aportem en format .png, hauràs de fer la maquetació en format escriptori. És indiferent els colors escollits, però sí que és molt important que facis l'estructura de caixes que t'indiquem.
 ________________________________________________________________________________________________________________________________________
 
@@ -94,7 +101,7 @@ ________________________________________________________________________________
         -Exercici 2:✅
             $X = array (10, 20, 30, 40, 50,60);
             Mostrar per pantalla la mida de l’array anterior i posteriorment elimina un element de l’array anterior. Després d'eliminar l'element, les claus senceres han de ser normalitzades(s’han de reorganitzar els seus índexs). Mostra per última vegada la mida de l’array.
-        -Exercici 3: ❌ (per corregir)
+        -Exercici 3: ✅
             Crea una funció que rebi com a paràmetres un array de paraules i un caràcter. La funció ens retorna true si totes les paraules de l’array tenen el caràcter passat com a segon paràmetre.
             Per exemple:
             Si tenim [“hola”, “Php”, “Html”] retornarà true si preguntem per “h” però fals si preguntem per “l”.
@@ -109,9 +116,9 @@ ________________________________________________________________________________
 
 **Tema 4 -P00**
     -Nivell 1:
-        -Exercici 1:❌ (per corregir)
+        -Exercici 1:✅
             Crea una classe Employee, defineix com a atributs el seu nom i sou. Definir un mètode initialize que rebi com a paràmetres el nom i sou. Plantejar un segon mètode print que imprimeixi el nom i un missatge si ha de pagar o no impostos (si el sou supera 6000, paga impostos).
-        -Exercici 2:❌ (per corregir)
+        -Exercici 2:✅
             Escriu un programa que defineixi una classe Shape amb un constructor que rebi com a paràmetres l'ample i alt. Defineix dues subclasses; Triangle i Rectangle que heretin de Shape i que calculin respectivament l'àrea de la forma area().
 ________________________________________________________________________________________________________________________________________
 
@@ -123,12 +130,12 @@ ________________________________________________________________________________
         -Exercici 1: ✅
              Escriu un programa que defineixi una classe Shape amb un constructor que rebi com a paràmetres l'ample i alt. Defineix dues subclasses; Triangle i Rectangle que heretin de Shape i que calculin respectivament l'àrea de la forma area().
     -Nivell 3:
-        -Exercici 1:❌ (per corregir)
+        -Exercici 1:✅
             Seguint l’exercici anterior, imagina com ampliaries l’estructura que has creat per representar un Cercle i el seu corresponent càlcul d’àrea.
 ________________________________________________________________________________________________________________________________________
 
 **Tema 6 - PHP Avançat**
-    -Nivell 1: 
+    -Nivell 1: 🆕
         -Exercici 1:
             Crea un formulari HTML amb els camps que vulguis (almenys un nom o username). El formulari ha de tenir com a action un document PHP. El codi d’aquest document PHP haurà de mostrar els valors dels diferents camps del formulari mitjançant variables superglobals. Enregistra a més, alguns d’aquests valors dins de variables de sessió.
         -Exercici 2:
