@@ -1,0 +1,23 @@
+{
+    "name": "annamercado/exercici_1",
+    "description": "Pruebas de PhpUnit",
+    "type": "library",
+    "authors": [
+      {
+        "name": "Anna Mercado",
+        "email": "annatirso@gmail.com"
+      }
+    ],
+    "version": "1.0",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "APP\\": "src/"
+      }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "TEST\\": "pruebas/"
+      }
+    }
+}
