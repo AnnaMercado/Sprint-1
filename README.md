@@ -18,13 +18,14 @@ Php.
 
 
 Proces log:
+            -Finalitzacion Nivell 1 - Tema 7: 
+                Entrega del exercicis 1 i 2.
+          
+_______________
             -Finalitzacion Nivell 1 - Tema 1: 
                 Entrega del exercicis 1, 2 i 3 (pagina versió escriptori, tablet i ordinador).
             -Correcció exercici 3 - Tema 3: 
                 S'ha afegit un return false al bucle si no troba la lletra en la paraula i a més a més s'ha eliminat la variable $coincideixen, ja que al tener dos return no era necesari guardar el valor del Boolean.
-
-
-
 ___________________
             -Correcció exercici 3 - Tema 3: 
                 S'ha afegit un break al bucle un cop veu que la paraula en la que està no conté la lletra que ha de buscar.
@@ -122,7 +123,7 @@ ________________________________________________________________________________
             Escriu un programa que defineixi una classe Shape amb un constructor que rebi com a paràmetres l'ample i alt. Defineix dues subclasses; Triangle i Rectangle que heretin de Shape i que calculin respectivament l'àrea de la forma area().
 ________________________________________________________________________________________________________________________________________
 
-**Tema 5 - POO2**
+**Tema 5 - POO2**🌟
     -Nivell 1: 
         -Exercici 1: ✅
             Necessitem crear un tipus de dades que representi un animal. Els animals tenen un nom, ara bé, no és el mateix el so de la “parla” d’un gos, que el d’un gat. Per tant, necessitem crear altres tipus de dades que ens ajudin a programar aquests comportaments. Bàsicament, volem un mètode makeSound() que mostri un missatge diferent si es tracta d’un gos (per exemple,“Bup, bup!”) o un gat (per exemple “Meu!”).
@@ -135,7 +136,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 **Tema 6 - PHP Avançat**
-    -Nivell 1: 🆕
+    -Nivell 1: ✅
         -Exercici 1:
             Crea un formulari HTML amb els camps que vulguis (almenys un nom o username). El formulari ha de tenir com a action un document PHP. El codi d’aquest document PHP haurà de mostrar els valors dels diferents camps del formulari mitjançant variables superglobals. Enregistra a més, alguns d’aquests valors dins de variables de sessió.
         -Exercici 2:
@@ -145,7 +146,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 **Tema 7 - Testing**
-    -Nivell 1:
+    -Nivell 1:🆕
         -Exercici 1:
         Donada la classe NumberChecker programa els tests unitaris que facin falta per certificar que el codi font de la classe fa el que ha de fer.
              -> classe NumberChecker
