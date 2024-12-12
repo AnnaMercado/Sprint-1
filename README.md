@@ -10,14 +10,20 @@ Php.
 
 
 ❗❗❗Actualitzacions d'aquesta versio:
-            -Finalitzacion Nivell 1 - Tema 6: 
-                Entrega del exercicis 1, 2 i 3.
-            -Correcció exercici 3 - Tema 3: 
-                S'ha editat el nom de la funció de forma que s'anomeni a partir d'un verb i no un sustantiu. 
+            -Finalització Nivell 1 - Tema 7.
+            -Finalització Nivell 2 -Tema 2. 
+            -Finalitazció Nivell 2 - Tema 6.
+            -S'ha afegir l'arxiu git ignore.
+
 
 
 
 Proces log:
+            -Finalitzacion Nivell 1 - Tema 6: 
+                Entrega del exercicis 1, 2 i 3.
+            -Correcció exercici 3 - Tema 3: 
+                S'ha editat el nom de la funció de forma que s'anomeni a partir d'un verb i no un sustantiu. 
+_______________
             -Finalitzacion Nivell 1 - Tema 7: 
                 Entrega del exercicis 1 i 2.
           
