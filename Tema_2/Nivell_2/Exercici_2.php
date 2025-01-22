@@ -1,7 +1,7 @@
 <?php
 
 
-function calcularPreu(int $chocolate, int $xiclet, int $carmel){
+function calcularPreu(int $chocolate, int $xiclet, int $carmel):void{
    $preu = (calcularChocolate($chocolate) + calcularXiclet($xiclet) + calcularCarmel($carmel) );
    echo $preu; 
 

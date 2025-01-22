@@ -1,11 +1,9 @@
 <?php
 
-function calcularLlamada(int $minutos){
-    $precio = 0.10; 
 
-    for ($i = 3; $i < $minutos; $i++){
-        $precio += 0.5;
-    }
+
+function calcularLlamada(int $minutos):void{
+    $precio = 0.10 + ($minutos -= 3)*0.5;
     echo $precio;
 
 }
