@@ -10,15 +10,14 @@ Php.
 
 
 ❗❗❗Actualitzacions d'aquesta versio:
-            -Finalització Nivell 1 - Tema 7.
-            -Finalització Nivell 2 -Tema 2. 
-            -Finalitazció Nivell 2 - Tema 6.
-            -S'ha afegir l'arxiu git ignore.
+            -Correció Nivell 1 - Tema 7.
 
 
 
 
 Proces log:
+
+____________________
             -Finalitzacion Nivell 1 - Tema 6: 
                 Entrega del exercicis 1, 2 i 3.
             -Correcció exercici 3 - Tema 3: 
